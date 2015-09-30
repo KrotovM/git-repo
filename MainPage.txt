@@ -4,3 +4,4 @@ int y = 2;
 
 if x < y then i++
 print i;
+print("old branch")
