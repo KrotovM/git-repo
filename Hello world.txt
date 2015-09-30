@@ -1,4 +1,4 @@
-print("Hello world")
-print("Hello moon!")
-print("Hello me dear friend")
-print("Second change")
+print("Hello world;")
+print("Hello moon!;")
+print("Hello me dear friend;")
+print("Second change;")
